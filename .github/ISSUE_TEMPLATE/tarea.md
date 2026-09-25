@@ -1,6 +1,6 @@
 ---
 name: Tarea
-about: 'Una tarea del tablero '
+about: Una tarea del tablero
 title: ''
 labels: ''
 assignees: ''
